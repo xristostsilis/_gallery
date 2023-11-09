@@ -8,7 +8,7 @@ license_url: 'https://www.theguardian.com/technology/2023/jun/05/apple-vision-pr
 license_text: Apple Vision Pro
 categories:
   - Technology
-  - AUgmented Reality
+  - Augmented Reality
 tags:
   - Headset
   - Apple
