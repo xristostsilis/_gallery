@@ -1,15 +1,18 @@
 ---
 author: Vasileios Kakoulidis
-title: New Augmented Reality Headset.
-year: 2023
-image_url: images/ar-headset.jpg
-caption: An AR headset can “seamlessly” blend the real and digital world. Especially the Apple Vision Pro.
-license_url: 'https://www.theguardian.com/technology/2023/jun/05/apple-vision-pro-ar-headset-revealed-worldwide-developers-conference'
-license_text: Apple Vision Pro
+title: Augmented Reality Headset.
+year: 1968
+image_url: /images/sword-of-damocles.png
+caption: The Sword of Damocles was the name for an early virtual reality (VR) head-mounted display and tracking system. It is widely considered to be the first augmented reality HMD system.
+license_url: "https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)"
+license_text: Wikimedia
 categories:
-  - Technology
-  - Augmented Reality
+  - Οπτικός Προγραμματισμός
+  - Γραφικά
+  - Αρχέτυπα
 tags:
-  - Headset
-  - Apple
+  - Ivan Sutherland
+  - Sword of Damocles
+  - Εικονική Πραγματικότητα
+  - Επαυξημένη Πραγματικότητα
 ---
