@@ -1,17 +1,17 @@
 ---
 author: Vasileios Kakoulidis
-title: Augmented Reality Headset.
-year: 1968
-image_url: /images/sword-of-damocles.png
-caption: The Sword of Damocles was the name for an early virtual reality (VR) head-mounted display and tracking system. It is widely considered to be the first augmented reality HMD system.
-license_url: "https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)"
+title: Eye Tap
+year: 1980
+image_url: /images/eye-tap.png
+caption: An EyeTap is a concept for a wearable computing device that is worn in front of the eye that acts as a camera to record the scene available to the eye as well as a display to superimpose computer-generated imagery on the original scene available to the eye.
+license_url: "(https://en.wikipedia.org/wiki/EyeTap)"
 license_text: Wikimedia
 categories:
   - Οπτικός Προγραμματισμός
   - Γραφικά
   - Αρχέτυπα
 tags:
-  - Ivan Sutherland
+  - Steve Mann
   - Sword of Damocles
   - Εικονική Πραγματικότητα
   - Επαυξημένη Πραγματικότητα
