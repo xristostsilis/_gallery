@@ -1,16 +1,15 @@
 ---
 author: Vasileios Kakoulidis
-title: Voice Assistance
-image_url: images/voice-assistants.jpg
-caption: Voice Assistants have become more common than ever. They are essential parts of smart homes and they make use of IoT.
-license_url: 'https://www.rtings.com/speaker/reviews/best/by-feature/alexa'
-license_text: Alexa
+title: Siri
+image_url: /images/siri.png
+caption: Siri  is the digital assistant that is part of Apple Inc.'s iOS operating systems. It uses voice queries, gesture based control, focus-tracking and a natural-language user interface to answer questions, make recommendations, and perform actions by delegating requests to a set of Internet services.
+license_url: "https://en.wikipedia.org/wiki/Siri" 
+license_text: Wikimedia
 categories:
-  - Technology
-  - Voice Assistants
-  - Smart Homes
-  - Internet of Things
+  - Άρχετυπα
+  - Μοντέλα
 tags:
-  - Amazon
+  - Steve Jobs
   - Apple
+  - Siri
 ---
