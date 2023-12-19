@@ -9,5 +9,5 @@ categories:
   - Βιντεοπαιχνίδια 
 tags:
   - Βιντεοπαιχνίδια περιπέτειας 
-  - Video Games 
+  - VideoGames 
 ---
